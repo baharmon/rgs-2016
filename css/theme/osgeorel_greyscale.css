@@ -252,7 +252,7 @@ body {
 
 .reveal {
   font-family: 'LatoWeb', sans-serif;
-  font-size: 18px;
+  font-size: 26px;
   font-weight: 300;
   color: #000; }
 
@@ -262,43 +262,43 @@ body {
   text-shadow: none; }
 
 .reveal .slides > section, .reveal .slides > section > section {
-  line-height: 1.3;
+  line-height: 1em;
   font-weight: inherit; }
 
 /*********************************************
  * HEADERS
  *********************************************/
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
-  margin: 0 0 20px 0;
-  line-height: 1.2;
+  margin: 0 0 0.25em 0;
+  line-height: 1em;
   letter-spacing: normal;
   text-transform: none;
   text-shadow: none;
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 3em;
+  font-size: 2em;
   font-weight: 700;
   color: #000;
   text-shadow: none; }
 
 .reveal h2 {
-  font-size: 1.75em;
+  font-size: 1.5em;
   font-weight: 600;
   color: #000; }
 
 .reveal h3 {
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-weight: 500;
   color: #000; }
 
 .reveal h4 {
-  font-size: 1.25em;
+  font-size: 1.2em;
   font-weight: 400;
   color: #000; }
 
 .reveal h5 {
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 300;
   color: #000; }
 
@@ -350,12 +350,12 @@ h2.inverse {
  * OTHER
  *********************************************/
 .reveal p {
-  margin: 20px 0;
-  line-height: 1.3; }
+  margin: 0.25em 0;
+  line-height: 1em; }
 
 p.shadow {
-  margin: 20px 0;
-  line-height: 1.3;
+  margin: 0.25em 0;
+  line-height: 1em;
   font-weight: 350;
   color: #000;
   text-shadow: 0 0 1px white, 0 0 1px white, 0 0 1px white, 0 0 1px white; }}
@@ -425,7 +425,7 @@ p.shadow {
   text-align: left;
   font-size: 0.55em;
   font-family: monospace;
-  line-height: 1.2em;
+  line-height: 1em;
   word-wrap: break-word;
   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3); }
 
@@ -468,7 +468,7 @@ p.shadow {
 .reveal small {
   display: inline-block;
   font-size: 0.6em;
-  line-height: 1.2em;
+  line-height: 1em;
   vertical-align: top; }
 
 .reveal small * {
