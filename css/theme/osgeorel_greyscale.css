@@ -350,7 +350,7 @@ h2.inverse {
  * OTHER
  *********************************************/
 .reveal p {
-  margin: 0.25em 0;
+  margin: 0.25em 0 0.25em;
   line-height: 1em; }
 
 p.shadow {
@@ -374,7 +374,7 @@ p.shadow {
 .reveal ol, .reveal dl, .reveal ul {
   display: inline-block;
   text-align: left;
-  margin: 0 0 0 1em; }
+  margin: 0.25em 0 0.25em 1em; }
 
 .reveal ol {
   list-style-type: decimal; }
