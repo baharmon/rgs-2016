@@ -390,7 +390,8 @@ p.shadow {
 
 .reveal ul ul, .reveal ul ol, .reveal ol ol, .reveal ol ul {
   display: block;
-  margin-left: 40px; }
+  margin-left: 40px;
+  margin-top: 0.25em; }
 
 .reveal dt {
   font-weight: bold; }
